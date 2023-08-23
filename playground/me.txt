@@ -1,5 +1,0 @@
-{{#user}}
-Name: Revathi chandra
-Skills: HTML, CSS, JS
-Email: revathichanddratannidi@gmail.com
-{{/user}}
